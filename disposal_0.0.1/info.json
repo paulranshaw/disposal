@@ -1,0 +1,10 @@
+{
+    "name": "disposal",
+    "version": "0.0.1",
+    "title": "Disposal",
+    "author": "Paul Ranshaw",
+    "factorio_version": "1.1",
+    "contact": "Paul Ranshaw",
+    "homepage": "https://github.com/paulranshaw/disposal",
+    "description": "Adds preferable disposal functionality."
+}
